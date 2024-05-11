@@ -1,4 +1,3 @@
-export const clLoad = "clLoad";
 
 export const load = (load = 'load... ') => {
   const elLoad = document.createElement('div');
