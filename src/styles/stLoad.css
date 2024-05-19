@@ -1,3 +1,7 @@
+@font-face {
+  font-family: ftLoadBold;
+  src: url(../assets/NanumMyeongjo-ExtraBold.ttf);
+}
 
 .clLoad {
   position: absolute;
@@ -5,5 +9,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 
-  font-size: 5rem;
+  font-size: 8em;
+  font-family: ftLoadBold;
+  letter-spacing: 0.2em;
 }
