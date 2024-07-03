@@ -4,3 +4,21 @@
   align-items: center;
   justify-content: center;
 }
+
+.flex {
+  display: flex;
+}
+
+.titleBase {
+  font-size: 1.5em;
+}
+
+.buttonBase {
+  border: 1.5px solid var(--borderColor);
+  background-color: rgb(241 239 239);
+  cursor: pointer;
+}
+.buttonBase:hover {
+  transition: 0.1s;
+  background-color: snow;
+}

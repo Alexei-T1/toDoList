@@ -1,4 +1,9 @@
+:root {
+  --borderColor: brown;
+}
+
 @import url(./reset.css);
 @import url(./stLoad.css);
 @import url(./general.css);
 @import url(./stBoardBack.css);
+@import url(./stWindows.css);
